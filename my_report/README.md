@@ -51,12 +51,19 @@ Z:\My Documents\GitHub\Augmented-Reality>python -m http.server (enter)
 Και άνοιξε [η κάμερα](http://localhost:8000) άνοιξα τον κώδικά μου με το visual studio code έψαξα σε διαφορετικά site για να βρώ τουσ κώδικες οι οπιοί θα με βοηθούσαν για την υλοποίηση της εργασίας:
 
 [1ο site](https://stackoverflow.com/questions/61239107/how-to-get-marker-position-x-y-ar-js)
+
 [2o site](https://www.youtube.com/watch?v=XqRVfB521Fo)
+
 [3o site](https://www.youtube.com/watch?v=_HWfc_RqA6k&t=511s)
+
 [4o site](https://www.youtube.com/watch?v=ZYZYnY-uu10&t=198s)
+
 [5o site](https://www.youtube.com/watch?v=MtiUx_szKbI)
+
 [6o site](https://www.w3schools.com/js/default.asp)
+
 [7o site](https://www.w3schools.com/html/default.asp)
+
 
 Στην συνέχεια αφού με την βοήθεια των παραπάνω ιστοσελίδων αλλά και με την βοήθεια μερικών συναδέλφων κατάφερα να υλοποιήσω τον κωδικά μου πήγα στο [site](https://ar-js-org.github.io/AR.js-Docs/marker-based/) και στην συνέχεια στα [tools](https://ar-js-org.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
 για να φτιάξω τις εικόνες και να τα patterns έτσι ώστε να μπορεί η κάμερα μου να εμφανίζει τις εικόνες και τα τρισδιάστατα αντικείμενα.
