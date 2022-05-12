@@ -41,7 +41,7 @@ Z:\My Documents\GitHub\Augmented-Reality>python -m http.server (enter)
 
 
 # 2nd Deliverable
-Για την υλοποίηση του δεύτερου παραδοτέου εργάστηκα με την ίδια ακριβώσ διαδικασία όπως στο 1ο δηλαδή αφού συνδέθηκα στο git hub desktop και άνοιξα το command prompt και έκανα τα παρακάτω βήματα ξανά:
+Για την υλοποίηση του δεύτερου παραδοτέου εργάστηκα με την ίδια ακριβώς διαδικασία όπως στο 1ο δηλαδή αφού συνδέθηκα στο git hub desktop και άνοιξα το command prompt και έκανα τα παρακάτω βήματα ξανά:
  
 Z:\>cd “My Documents” (enter) 
 Z:\My Documents>cd GitHub (enter)
@@ -50,8 +50,20 @@ Z:\My Documents\GitHub\Augmented-Reality>python -m http.server (enter)
 
 Και άνοιξε [η κάμερα](http://localhost:8000) άνοιξα τον κώδικά μου με το visual studio code έψαξα σε διαφορετικά site για να βρώ τουσ κώδικες οι οπιοί θα με βοηθούσαν για την υλοποίηση της εργασίας:
 
-[1ο site]
+[1ο site](https://stackoverflow.com/questions/61239107/how-to-get-marker-position-x-y-ar-js)
+[2o site](https://www.youtube.com/watch?v=XqRVfB521Fo)
+[3o site](https://www.youtube.com/watch?v=_HWfc_RqA6k&t=511s)
+[4o site](https://www.youtube.com/watch?v=ZYZYnY-uu10&t=198s)
+[5o site](https://www.youtube.com/watch?v=MtiUx_szKbI)
+[6o site](https://www.w3schools.com/js/default.asp)
+[7o site](https://www.w3schools.com/html/default.asp)
 
+Στην συνέχεια αφού με την βοήθεια των παραπάνω ιστοσελίδων αλλά και με την βοήθεια μερικών συναδέλφων κατάφερα να υλοποιήσω τον κωδικά μου πήγα στο [site](https://ar-js-org.github.io/AR.js-Docs/marker-based/) και στην συνέχεια στα [tools](https://ar-js-org.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
+για να φτιάξω τις εικόνες και να τα patterns έτσι ώστε να μπορεί η κάμερα μου να εμφανίζει τις εικόνες και τα τρισδιάστατα αντικείμενα.
+
+Τα τρισδιάστατα αντικείμενα τα επεξεργάστηκα στο πρόγραμμα blender και αφού τα χρωμάτισα με το χρώμα που ήθελα τα έκανα export σε αρχεία gltf ετσί ώστε να είναι υλοποιήσιμα από τον κώδικα μου.
+
+Τέλος αφού αποθήκευσα τον κώδικα στο visual studio code και ανέβασα τισ εικόνες που είχα επεξεργαστεί στα assets όπου όλα είχαν ανεβεί μέσω του github desktop κατέβασα τις φωτογραφίεσ ξανά και στο κινητό μου. Πάτησα refresh και μπροστά από την κάμερα του υπολογιστή έδειξα τις κατάλληκες εικόνες τις οποίες είχα ανεβάσει και στα assets και εμφανίστηκαν τα δύο τρισδιάστατα αντικείμενα στις κάρτες του υδρογόνου και του οξυγόνου ενώ στην κάρτα με το dpsd μου εμφανιζότανε η κατάλληλη εικόνα με το ονοματεπώνυμό μου.
 
 # 3rd Deliverable 
 
