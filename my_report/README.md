@@ -41,7 +41,16 @@ Z:\My Documents\GitHub\Augmented-Reality>python -m http.server (enter)
 
 
 # 2nd Deliverable
+Για την υλοποίηση του δεύτερου παραδοτέου εργάστηκα με την ίδια ακριβώσ διαδικασία όπως στο 1ο δηλαδή αφού συνδέθηκα στο git hub desktop και άνοιξα το command prompt και έκανα τα παρακάτω βήματα ξανά:
+ 
+Z:\>cd “My Documents” (enter) 
+Z:\My Documents>cd GitHub (enter)
+Z:\My Documents\GitHub>cd Augmented-Reality (enter)
+Z:\My Documents\GitHub\Augmented-Reality>python -m http.server (enter)
 
+Και άνοιξε [η κάμερα](http://localhost:8000) άνοιξα τον κώδικά μου με το visual studio code έψαξα σε διαφορετικά site για να βρώ τουσ κώδικες οι οπιοί θα με βοηθούσαν για την υλοποίηση της εργασίας:
+
+[1ο site]
 
 
 # 3rd Deliverable 
