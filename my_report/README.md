@@ -73,7 +73,16 @@ Z:\My Documents\GitHub\Augmented-Reality>python -m http.server (enter)
 Τέλος αφού αποθήκευσα τον κώδικα στο visual studio code και ανέβασα τισ εικόνες που είχα επεξεργαστεί στα assets όπου όλα είχαν ανεβεί μέσω του github desktop κατέβασα τις φωτογραφίεσ ξανά και στο κινητό μου. Πάτησα refresh και μπροστά από την κάμερα του υπολογιστή έδειξα τις κατάλληκες εικόνες τις οποίες είχα ανεβάσει και στα assets και εμφανίστηκαν τα δύο τρισδιάστατα αντικείμενα στις κάρτες του υδρογόνου και του οξυγόνου ενώ στην κάρτα με το dpsd μου εμφανιζότανε η κατάλληλη εικόνα με το ονοματεπώνυμό μου.
 
 # 3rd Deliverable 
+Για την υλοποίηση του τριτου παραδοτέου εργάστηκα με την ίδια ακριβώς διαδικασία όπως στο 1ο και στο 2ο δηλαδή αφού συνδέθηκα στο git hub desktop και άνοιξα το command prompt και έκανα τα παρακάτω βήματα ξανά:
+ 
+Z:\>cd “My Documents” (enter) 
+Z:\My Documents>cd GitHub (enter)
+Z:\My Documents\GitHub>cd Augmented-Reality (enter)
+Z:\My Documents\GitHub\Augmented-Reality>python -m http.server (enter)
 
+Και άνοιξε [η κάμερα](http://localhost:8000) άνοιξα τον κώδικά μου με το visual studio code έψαξα σε διαφορετικά site για να βρώ τουσ κώδικες οι οπιοί θα με βοηθούσαν για την υλοποίηση της εργασίας:
+
+[1o site](https://www.w3schools.com/)
 
 # Conclusions
 
