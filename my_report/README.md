@@ -84,6 +84,13 @@ Z:\My Documents\GitHub\Augmented-Reality>python -m http.server (enter)
 
 [1o site](https://www.w3schools.com/)
 
+[2o site](https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564)
+
+[3o site](https://aframe.io/docs/1.3.0/components/gltf-model.html?fbclid=IwAR3bLZpErBOtJZQDdJEL9PivNIGV1rMUdQbWtVPDru93Rih0MIX6ULJ2rTg#sidebar~)
+
+[4o site](https://aframe.io/blog/arjs3/)
+
+[5o site](https://ar-js-org.github.io/AR.js-Docs/)
 # Conclusions
 
 
